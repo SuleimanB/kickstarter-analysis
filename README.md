@@ -20,8 +20,10 @@
 
 ![image](https://user-images.githubusercontent.com/78752254/110258541-1e38c100-7f71-11eb-971d-214f8693a88e.png)
 
+First Conclusion
   Through a line graph that was generated it is fair to see two conclusions when it comes to launching a Kickstarter for plays and their respective launch dates. The first conclusion, Kickstarter's that begin in May and June see a substantial increase in successful campaigns compared to any other time periods. A number of factors could potentially help explain this trend. For example, perhaps theatregoers become more interested in upcoming plays during this time due to increased free-time or they have increased capabilities to help fund projects but without additional research it would be difficult to pinpoint why this is the case. 
 
+Second Conclusion
   The final related conclusion , cancelled projects do not show much trends in relation to dates they were launched. That lack of a trend can help support the fact that canceled goals probably are tied more so due to unrealistic financial based goals that were set and/or lack of interest from potential funders rather than the time cancelled campaigns were created. Very interesting to say the least! 
 
 - What can you conclude about the Outcomes based on Goals?
