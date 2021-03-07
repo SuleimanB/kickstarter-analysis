@@ -28,7 +28,7 @@
 
   Outcomes based on Goals
   
-  ![image](https://user-images.githubusercontent.com/78752254/110258521-fc3f3e80-7f70-11eb-8c50-44fcfe735591.png
+  ![image](https://user-images.githubusercontent.com/78752254/110258521-fc3f3e80-7f70-11eb-8c50-44fcfe735591.png)
 
   Similarly to the Launch Date, a line graph was used to visually showcase trends but this time using the financial goals themselves to see if any trends can be spotted for play-based Kickstarter campaigns. One conclusion that is present is the idea that the loftier your financial based goals are, the least likely you are to have a successful Kickstarter campaign. Through the graph we can see that goals of $45,000 and higher see a high percentage of failed campaigns as a result. On the flip side of this though, we can see for successful campaigns, a range of campaigns where goals were lower then $5,000 had the highest percentage of successful Kickstarter campaigns which is interesting to see. 
 
